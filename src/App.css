@@ -3,10 +3,10 @@
 }
 
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  animation: recycle-spin infinite 30s linear;
+  transform-origin: center;
   height: 80px;
 }
-
 .App-header {
   background-color: #222;
   height: 150px;
@@ -22,7 +22,8 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
+@keyframes recycle-spin {
   from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  to { transform: rotate(359deg); }
+
 }
