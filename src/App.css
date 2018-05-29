@@ -42,6 +42,7 @@
   font-size: 20px;
   padding: 1em;
 }
+<<<<<<< HEAD
 .social-links {
   display: flex;
   justify-content: space-between;
@@ -53,3 +54,9 @@
   font-size: 5em;
   padding:8px;
 }
+=======
+.projects-grid {
+  display: flex;
+}
+
+>>>>>>> projects
