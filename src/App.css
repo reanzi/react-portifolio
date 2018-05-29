@@ -90,6 +90,13 @@
   font-size: 66px;
   padding-right: 5rem;
 }
+/* Resume page CSS */
+
+.resume-right-col {
+  background: #27221f;
+  color: white;
+  padding: 2em;
+}
 @keyframes recycle-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(359deg); }
