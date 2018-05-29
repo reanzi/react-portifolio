@@ -55,18 +55,6 @@
 .projects-grid {
   display: flex;
 }
-/* Resume page CSS */
-
-.resume-right-col {
-  background: #27221f;
-  color: white;
-  padding: 2em;
-}
-
-<<<<<<< HEAD
-.projects-grid {
-  display: flex;
-=======
 .contact-body {
   margin: auto;
   /* background: grey; */
@@ -105,7 +93,5 @@
 @keyframes recycle-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(359deg); }
-
->>>>>>> contactme
 }
 
