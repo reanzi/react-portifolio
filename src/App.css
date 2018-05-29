@@ -42,21 +42,21 @@
   font-size: 20px;
   padding: 1em;
 }
-<<<<<<< HEAD
 .social-links {
   display: flex;
   justify-content: space-between;
   width: 50%;
-  margin: auto;
 }
 .social-links i {
   color: #f2f2f2;
   font-size: 5em;
   padding:8px;
 }
-=======
 .projects-grid {
   display: flex;
 }
 
->>>>>>> projects
+.projects-grid {
+  display: flex;
+}
+
